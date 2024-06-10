@@ -1,4 +1,4 @@
-# balatro-gay
+# Balatro Gay-ifier
 Turns all "Straight" descriptions into "Gay" (english localization)
 
 Functional in SMODS 0.9.8.
